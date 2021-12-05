@@ -1,5 +1,15 @@
-# ME203
-start of ME 203 repo
-# First lesson on markdown
-## second lesson
-## three
+# ME 203 
+
+# Homeworks
+## Assignments
+## Student Scripts
+## Solutions
+
+# Lectures
+## PowerPoint Lectures
+## Excel Lecture Spreadsheets
+## MATLAB Lecture Scripts
+
+# Projects
+## Provided Files
+## Project Script
