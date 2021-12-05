@@ -1,2 +1,3 @@
-# lectures 1-3 are excel
-# lectures 4-21 are matlab
+# PowerPoint Lectures
+# Lecture Spreadsheets (1-3)
+# Lecture Scripts (4-20)
