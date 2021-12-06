@@ -1,9 +1,9 @@
 # ME 203 
 
 ## Homeworks
-### Assignments
+### Homework Assignments
 ### Student Scripts
-### Solutions
+### Homework Answer Keys
 
 ## Lectures
 ### PowerPoint Lectures
@@ -12,4 +12,4 @@
 
 ## Projects
 ### Provided Files
-### Project Script
+### Project Scripts
