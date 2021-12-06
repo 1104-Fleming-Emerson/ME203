@@ -1,3 +1,3 @@
 # PowerPoint Lectures
-# Lecture Spreadsheets (1-3)
-# Lecture Scripts (4-20)
+# Lecture Spreadsheets (1-4)
+# Lecture Scripts (5-20)
