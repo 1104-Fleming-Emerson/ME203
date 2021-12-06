@@ -11,5 +11,5 @@
 ### MATLAB Lecture Scripts
 
 ## Projects
-### Provided Files
+### Project Provided Materials
 ### Project Scripts
