@@ -1,3 +1,3 @@
 # PowerPoint Lectures
-# Lecture Spreadsheets (1-4)
-# Lecture Scripts (5-20)
+## Lectures 1-4 are Excel
+## Lectures 5-20 are MATLAB
