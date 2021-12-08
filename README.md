@@ -7,8 +7,6 @@
 
 ## Lectures
 ### PowerPoint Lectures
-### Excel Lecture Spreadsheets
-### MATLAB Lecture Scripts
 
 ## Projects
 ### Project Provided Materials
